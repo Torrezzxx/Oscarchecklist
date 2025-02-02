@@ -21,7 +21,7 @@ h1 {
 
 table {
     border-collapse: collapse;
-    width: 220px; /* Diminui o tamanho das tabelas */
+    width: 120px; /* Diminui o tamanho das tabelas */
     background: white;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -50,6 +50,7 @@ button {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    width: 80px; /* Largura fixa para os botões */
     font-size: 12px; /* Fonte menor para o botão */
 }
 
